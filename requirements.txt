@@ -1,0 +1,12 @@
+flask
+ultralytics
+opencv-python-headless
+numpy
+pillow
+reportlab
+werkzeug
+flask_sqlalchemy
+psycopg2-binary
+gunicorn
+supabase
+python-dotenv

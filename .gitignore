@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+database.db
+static/uploads/*
+static/results/*
+static/repairs/*
+static/pdf/*
+!static/uploads/.gitkeep
+!static/results/.gitkeep
+!static/repairs/.gitkeep
+!static/pdf/.gitkeep
+.env
